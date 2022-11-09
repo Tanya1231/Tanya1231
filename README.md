@@ -17,7 +17,3 @@
 
 - tanjaabdulova@yandex.ru
 - https://vk.com/id47613029
-
-## Моя статистика
-
-![2022-11-09_09-52-37](https://user-images.githubusercontent.com/96286387/200742064-b9e9b560-21b3-40ca-bf82-c76090c18815.png)
