@@ -8,7 +8,7 @@
 - HTML
 - CSS
 - GIT
-- Java
+- Kotlin
 
 ## :pencil: Мои контакты
 
